@@ -1,5 +1,5 @@
 ![logo](https://github.com/SrinjoyRakshit/SrinjoyRakshit/blob/main/pixelcut-export.jpeg)
-<h1 align="center">Yo 👋, I'm Srinjoy Rakshit</h1>
+<h1 align="center">Yo 👋 I'm Srinjoy Rakshit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
