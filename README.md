@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
-- 💬 Ask me about **Html, CSS, Javascript, React.js**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **srinjoyrakshit2003@gmaail.com**
 
